@@ -1,1 +1,2 @@
-# programming-hero-assignment-2-practice
+# influencer products
+live link: influencer-123.netlify.app
